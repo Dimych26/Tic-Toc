@@ -1,0 +1,8 @@
+D:\Проекти\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Проекти\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Проекти\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Проекти\ConsoleApplication1\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+D:\Проекти\ConsoleApplication1\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+D:\Проекти\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Проекти\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Проекти\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
